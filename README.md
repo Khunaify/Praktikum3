@@ -42,7 +42,13 @@ int main()
 ```
 
 hasilnya :
-![Gmbr2](https://raw.githubusercontent.com/Khunaify/Praktikum3/master/Gmbr2.png)[Gmbr3](https://raw.githubusercontent.com/Khunaify/Praktikum3/master/Gmbr3.png) [Gmbr4](https://raw.githubusercontent.com/Khunaify/Praktikum3/master/Gmbr4.png)
+![Gmbr2](https://raw.githubusercontent.com/Khunaify/Praktikum3/master/Gmbr2.png)```
+
+hasilnya :
+![Gmbr3](https://raw.githubusercontent.com/Khunaify/Praktikum3/master/Gmbr3.png) ```
+
+hasilnya :
+![Gmbr4](https://raw.githubusercontent.com/Khunaify/Praktikum3/master/Gmbr4.png)
 
 
 ## 
